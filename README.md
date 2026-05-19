@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Gerardo Tinoco 👋
 ### Backend Developer · Building things that work, securing things that matter
 
