@@ -1,69 +1,97 @@
 <img src="./banner.svg" width="100%"/>
 
-# Hey, I'm Gerardo Tinoco 👋
+<br/>
 
-### Backend Developer · Building things that work, securing things that matter
+<div align="center">
 
-I'm a software engineer based in **Querétaro, México**, focused on backend development with Node.js and always curious about how systems can be broken — and hardened.
+### 🔗 Connect with me
 
-I come from an IT operations background and have been transitioning full-time into software engineering, building real products along the way.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gerardo-tinoco-coronel-7398471a2)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinococoronel.gerardo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GerardoCoronel98)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+
+### About me
+
+Hello, I'm **Gerardo Tinoco** — a Backend Developer transitioning full-time into software engineering, building real products along the way.
+I come from an IT operations background at **Tata Consultancy Services**, where I automated workflows and optimized enterprise environments.
+Outside of work, cybersecurity is a hobby that shapes how I write code — I think about authentication flows, access control, and attack surfaces as design decisions, not afterthoughts.
+
+`Backend Developer` `Node.js / Express` `MongoDB` `Security-minded` `Querétaro, México`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠 Technologies
 
 **Backend**
-`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-004880?style=for-the-badge&logoColor=white)
 
 **Frontend**
-`React` `Fabric.js`
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-0078D7?style=for-the-badge&logoColor=white)
 
 **Databases**
-`MongoDB` `Oracle`
 
-**Tools & Platforms**
-`Git` `Linux` `ServiceNow`
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
+**Tools & Security**
 
-## 🚀 What I'm building
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-**QR Payment Platform** *(in progress)*
-A digital menu system integrated with MercadoPago, allowing businesses to receive payments via QR code directly from a customer-facing menu. Built with Node.js and Express.
-
-**Presentation Editor**
-Full-stack canvas-based editor built from scratch with React and Fabric.js. Features JWT authentication, role-based access control, and a complete REST API backed by MongoDB.
-
-**CRM Backend**
-Contributed backend features to an existing CRM: bcrypt password hashing, a rule-based chatbot assistant, and extended REST API endpoints.
+</div>
 
 ---
 
-## 🔐 Security interests
+<div align="center">
 
-Cybersecurity is a hobby that shapes how I write code. I think about authentication flows, input validation, and access control not as checkboxes but as design decisions. Currently exploring ethical hacking fundamentals on the side.
+### 📊 Statistics
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerardoCoronel98&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=c8a84b&text_color=ffffff)](https://github.com/GerardoCoronel98)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoCoronel98&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/GerardoCoronel98)
 
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--gerardo--tinoco-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-gerardo-tinoco-coronel-7398471a2)
-[![Email](https://img.shields.io/badge/Email-tinococoronel.gerardo@gmail.com-red?style=flat&logo=gmail)](mailto:tinococoronel.gerardo@gmail.com)
+</div>
 
 ---
 
-*English (B2 · IELTS 2025) · Spanish (Native) · Mandarin Chinese (HSK-1)*
-<!--
-**GerardoCoronel98/GerardoCoronel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🔥 Contribution Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=GerardoCoronel98&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff41&ring=c8a84b&fire=c8a84b&currStreakLabel=00ff41&sideLabels=ffffff&dates=8b949e)](https://github.com/GerardoCoronel98)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GerardoCoronel98&bg_color=0d1117&color=00ff41&line=c8a84b&point=ffffff&area=true&hide_border=true)](https://github.com/GerardoCoronel98)
+
+</div>
+
+---
+
+<div align="center">
+<sub><code>// what if i told you the backend was here all along</code></sub>
+</div>
