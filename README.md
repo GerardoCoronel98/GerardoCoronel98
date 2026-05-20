@@ -1,3 +1,4 @@
+<img src="./banner.svg" width="100%"/>
 # Hey, I'm Gerardo Tinoco 👋
 ### Backend Developer · Building things that work, securing things that matter
 
